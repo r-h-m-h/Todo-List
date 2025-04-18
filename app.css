@@ -6,3 +6,7 @@
 a{
     text-decoration: none;
 }
+body {
+    height: 100vh;
+    background: linear-gradient(to bottom, #1E3A8A, #106ab9); 
+  }
